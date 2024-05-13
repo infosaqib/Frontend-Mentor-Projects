@@ -1,3 +1,6 @@
 [submodule "qr-code-component"]
 	path = qr-code-component
 	url = https://github.com/infosaqib/qr-code-component.git
+[submodule "Multi-step-form"]
+	path = Multi-step-form
+	url = https://github.com/infosaqib/Multi-step-form.git
