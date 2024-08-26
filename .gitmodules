@@ -4,3 +4,6 @@
 [submodule "Multi-step-form"]
 	path = Multi-step-form
 	url = https://github.com/infosaqib/Multi-step-form.git
+[submodule "Easybank-Landing-page"]
+	path = Easybank-Landing-page
+	url = https://github.com/infosaqib/Easybank-Landing-page
